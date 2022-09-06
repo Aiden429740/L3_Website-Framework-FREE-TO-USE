@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+body {
+    height: 100vh;
+
+    background-image: linear-gradient(rgb(71, 154, 214), rgb(70, 93, 224));
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
